@@ -1,8 +1,8 @@
 const shopifyRequest = require("../utils/shopifyRequest");
 const { decrypt, findShopSecretKey, verifyAndParseWebhook, sendNotification } = require("../utils/utils");
 const twilio = require('twilio');
+require('dotenv').config()
 const client = new twilio(process.env.TWILIO_ACCOUNT_ID , process.env.TWILIO_AUTH_TOKEN);
-
 
 exports.createWebhook = async (req, res) => {
     const authorizationHeader = req.headers.authorization;

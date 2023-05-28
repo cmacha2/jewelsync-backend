@@ -8,9 +8,10 @@ const inventoryRoutes = require('./routes/inventoryRoutes');
 const paymentRoutes = require('./routes/paymentRoutes');
 const webhoohRoutes = require('./routes/webhookRoutes');
 const cloverRoutes = require('./routes/cloverRoutes');
-const { encrypt, decrypt, findShopSecretKey } = require('./utils/utils');
 const server = require('http').createServer(app);
 const bodyParser = require('body-parser');
+require('dotenv').config({ path: './.env' })
+
 
 const io = require('socket.io')(server, {
   cors: {
