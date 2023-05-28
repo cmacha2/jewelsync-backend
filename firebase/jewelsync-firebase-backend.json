@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jewelsync",
+  "private_key_id": "1ffdc6bd66a573f15582ba3881cb3894936167de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmsPGS91odB4XH\nQsVVKQxF+F3UWd1iPH2pEAu8qZSFDaX9nQcJOOObJggbcWJ7QjVLtCtgWbsKcyBl\nQb1eDcbO/vUUBaXfKwFLUZUSbKzSHhJohDxqFbCXfn9+t4AQ+/svusQd6zXNf0UB\nUrD4oJFg0QNOdYEHQZgRMVl6VevCxhz6Ne9AxdNiWk1mrzSHUSL0pUUdrWMO/Kp2\n4CuDOb8PP0sRVSZZ1KlCSp7bt9XFblC69tYXICxy/J09UddGUVWhPF0z9JXhvpUb\nKlvftAJAhwyFlAK+epGm57XoCwZai/zYxHWJ44tYmPcX7mWSOg0aV80MWUS0cmOj\n6tecqyqVAgMBAAECggEALkQCaPY6jsAdw3am6sIf4/PRpzTiG3gKsLgBafXvgRaO\nsdu5rjeaBOADdAp+eROhU0fImk+NeJMHtNMQSmCsg5uETnBa35xCGbOlGp4LQa6T\nEWtSkWc/wmyb2oH4C77EszS1ZlB4eHcQohNfh0KZ1zNsJYS7sVXlbTAzU58xdrev\nbMEejDmc+XE35CsIPKl42Vd8CFjDpetS2COtd3whu9Y8vh1/wsiY2oriCWAQN712\n+T9EOqxd5f4mU77zCFmrfNuqT1YhBXdOWCIoLejujtk7baD4XGOgkifFyxJdi5na\nqguTt1/lenc6Xu/P0NXH7m9iEFxZ5kFXDTIXTR5jKQKBgQDVJTO+8DSZm1mvBgEf\nehdnyZkTKZA+ApE30OkC/e9w48MI/bzCy7wPvox9JQG7hKzH6hf3gmT6lWpkGbb3\npQw3ZAgyuXr3XtrbZHj1ghdbt5epo0FiQdzB+HfiJ/EPDqiXPH6nZYhmoua+w4z0\nU3GS1shs/UslwaNR3MCAFSPstwKBgQDINLOq4J+B9d1xoczJB69AzNypwEFXnqGm\nG/OlOaLIjg7I9B+Gppt9aFS2NyVuVPEthioHu7T3V5bVuWMaTIIsBhpsPqCuwgwt\nA1TDOQhrioreRRYN0e5iMPq08gEhoWiHssJN463M1CRC4e5WWv4PMDuEbcPdVBjE\n2AJzPM0vEwKBgHJE6pP/9UMwrQkPQATfELM8uksyqjkEaVQyNOm8t+Sexs4IMm2A\nikcqkej5sQ8WFwdqcgTorDhHaG1X9+aWXpFHmLmRBOKfwNeD6vE8GEe8ipuQgZoq\n0y5Ohf8CCNNYuXuzG/ekkFbuGKTG88d9ANOHQJZlySbpxCQ8JBvGuabLAoGAYUQ5\nhetbk2hADdTuCT0SiAj/q/kbxdXr8yfhV4SI8acSx87TAjgvkt39SgnAxbm+8r8b\n7GXlpcWIIo3O+Bfzpi/Q5oYGyuC7yaK0q6Qp0xWcIiCudkhn6IyjQQXSRuSERGk0\nvWLALaNjepsJkCrlA7wLLmulnQIehoPrrND9XsECgYATmKL/wvYjSSrehIu/zJeq\nCu3YyOQPP+88byqy989G0gKkEa0ZFk7E6d91veSHrlLspB43B+G+6vKZimNM9Dfv\nFP+yqf6947hrGR3DrQtin+wjjdL7bm5V8/g6u+pklyjUEMmOlhAnOEdS6pmkRuGA\nyd0RJUmiuyP6WJjcbL56Jg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8tazg@jewelsync.iam.gserviceaccount.com",
+  "client_id": "101819153312034170446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8tazg%40jewelsync.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
