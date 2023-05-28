@@ -1,8 +1,5 @@
 var admin = require("firebase-admin");
-const privateKey = process.env.FIREBASE_PRIVATE_KEY
 require('dotenv').config()
-
-console.log(privateKey)
 
 var serviceAccount = {
     "type": process.env.FIREBASE_TYPE,
@@ -18,9 +15,6 @@ var serviceAccount = {
     "universal_domain": process.env.FIREBASE_UNIVERSE_DOMAIN
 };
 
-console.log(process.env)
-
-// const serviceAccount = require('../jewelsync-firebase-backend.json')
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
